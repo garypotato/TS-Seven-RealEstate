@@ -81,7 +81,7 @@ const Home = () => {
 
       <SearchSection backgroundImg={backgroundImg}>
         <TitleText fontColor="white" show={display}>
-          The best way to find your home
+          Please refresh the page if no data, I will fix this bug when I have time ^-^
         </TitleText>
 
         <InputForm
